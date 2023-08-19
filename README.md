@@ -4,7 +4,7 @@
 
 Web template developed with React, which will serve as a base for future web projects.
 
-[MAIN] is deployed [here](https://inkua.github.io/maqueta-ong/)
+[MAIN] is deployed [here](https://bairon-cano.github.io/maqueta-ong/)
 
 ## Design link at Figma
 
