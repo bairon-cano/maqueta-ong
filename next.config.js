@@ -7,6 +7,8 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "**.github.io",
+        port: '',
+        pathname: '/maqueta-ong/**',
       },
     ],
   },
